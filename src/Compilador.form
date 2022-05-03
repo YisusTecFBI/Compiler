@@ -222,7 +222,7 @@
             <Component class="javax.swing.JTable" name="tblTokens">
               <Properties>
                 <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
-                  <Table columnCount="3" rowCount="4">
+                  <Table columnCount="3" rowCount="0">
                     <Column editable="false" title="Componente l&#xe9;xico" type="java.lang.Object"/>
                     <Column editable="false" title="Lexema" type="java.lang.Object"/>
                     <Column editable="false" title="[L&#xed;nea, Columna]" type="java.lang.Object"/>

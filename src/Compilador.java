@@ -203,10 +203,7 @@ public class Compilador extends javax.swing.JFrame {
 
         tblTokens.setModel(new javax.swing.table.DefaultTableModel(
             new Object [][] {
-                {null, null, null},
-                {null, null, null},
-                {null, null, null},
-                {null, null, null}
+
             },
             new String [] {
                 "Componente léxico", "Lexema", "[Línea, Columna]"
