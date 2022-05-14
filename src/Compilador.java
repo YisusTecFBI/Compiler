@@ -217,6 +217,7 @@ public class Compilador extends javax.swing.JFrame {
                 return canEdit [columnIndex];
             }
         });
+        tblTokens.getTableHeader().setReorderingAllowed(false);
         jScrollPane3.setViewportView(tblTokens);
 
         javax.swing.GroupLayout rootPanelLayout = new javax.swing.GroupLayout(rootPanel);
